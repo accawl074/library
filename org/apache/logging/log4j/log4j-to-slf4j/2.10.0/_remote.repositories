@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 11:45:34 CEST 2018
+log4j-to-slf4j-2.10.0.jar>nexuscw=
+log4j-to-slf4j-2.10.0.jar>central=
+log4j-to-slf4j-2.10.0.pom>central=
+log4j-to-slf4j-2.10.0.pom>nexuscw=

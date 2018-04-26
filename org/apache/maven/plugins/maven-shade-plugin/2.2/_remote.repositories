@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 11:45:54 CEST 2018
+maven-shade-plugin-2.2.jar>central=
+maven-shade-plugin-2.2.jar>nexuscw=
+maven-shade-plugin-2.2.pom>central=
+maven-shade-plugin-2.2.pom>nexuscw=
